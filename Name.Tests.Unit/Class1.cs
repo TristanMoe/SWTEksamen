@@ -10,7 +10,7 @@ using NSubstitute;
 namespace Name.Tests.Unit
 {
     [TestFixture]
-    public class Class1
+    public class Class2
     {
     }
 }
