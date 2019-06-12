@@ -12,5 +12,10 @@ namespace Name.Tests.Unit
     [TestFixture]
     public class Class2
     {
+        [Test]
+        public void TestCase()
+        {
+            Assert.That(true, Is.EqualTo(true));
+        }
     }
 }
